@@ -320,6 +320,10 @@ code {
     z-index: 50;
 }
 
+.am-header{
+  background: #12363f;
+    padding: 6px 20px;
+}
 
 /* Media Queries */
 @media (min-width: 640px) {
